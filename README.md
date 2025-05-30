@@ -119,7 +119,7 @@ cd Advertising-Regression-Project
 ```  
 ### 2. Open the Jupyter notebook
 
-jupyter notebook polynomial_regression.ipynb
+polynomial_regression.ipynb
 
 
 ---
