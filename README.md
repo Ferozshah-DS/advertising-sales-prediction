@@ -116,8 +116,8 @@ It’s a great *starter project* for your *data science portfolio*.
 ```bash
 git clone https://github.com/Ferozshah-DS/Advertising-Regression-Project.git
 cd Advertising-Regression-Project
-
-2. Open the Jupyter notebook
+```  
+###2. Open the Jupyter notebook
 
 jupyter notebook polynomial_regression.ipynb
 
