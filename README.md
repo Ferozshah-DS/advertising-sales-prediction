@@ -15,7 +15,11 @@ Perfect for anyone starting out in *Machine Learning* or *Data Science*. 🎯
 
 ## 📁 Project Structure
 
-📦 Advertising-Regression-Project ┣ 📜 polynomial_regression.ipynb     # Main notebook ┣ 📊 data/                            # Dataset (CSV file) ┣ 📷 images/                          # Visualizations and outputs ┗ 📄 README.md                        # Project overview
+📦 Advertising-Regression-Project 
+┣ 📜 polynomial_regression.ipynb     # Main notebook 
+┣ 📊 data/                            # Dataset (CSV file) 
+┣ 📷 images/                          # Visualizations and outputs 
+┗ 📄 README.md                        # Project overview
 
 ---
 
