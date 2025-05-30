@@ -146,8 +146,8 @@ jupyter notebook polynomial_regression.ipynb
 
 
 ---
-```
----
+
+
 ## 📮 Connect with Me
 
 ### 🔗 LinkedIn
