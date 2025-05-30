@@ -119,7 +119,7 @@ cd Advertising-Regression-Project
 ```  
 ### 2. Open the Jupyter notebook
 
-polynomial_regression.ipynb
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) polynomial_regression.ipynb
 
 
 ---
