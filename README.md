@@ -30,7 +30,7 @@ Perfect for anyone starting out in *Machine Learning* or *Data Science*. 🎯
 - Created boxplots to identify outliers.
 
 #### 📷 Boxplot Screenshot  
-![Boxplot of Features](images/boxplot.png)
+![Boxplot of Features](Images/boxplot.png)
 
 ### 📌 Step 3: Feature Engineering
 - No categorical encoding was needed.
@@ -56,13 +56,13 @@ Perfect for anyone starting out in *Machine Learning* or *Data Science*. 🎯
   - *Mean Squared Error (MSE)*
 
 #### 📷 Model Comparison Screenshot  
-![Model Comparison](images/model_comparison.png)
+![Model Comparison](Images/model_comparison.png)
 
 ### 📌 Step 8: Visualization of Predictions
 - Plotted *Actual vs Predicted Sales* to visualize the fit.
 
 #### 📷 Actual vs Predicted Plot  
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](Images/Actual_vs_Predicted_Price.png)
 
 ---
 
