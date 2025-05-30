@@ -133,7 +133,7 @@ jupyter notebook polynomial_regression.ipynb
 
 
 ---
-```bash
+```
 ---
 📮 Connect with Me
 
