@@ -62,7 +62,7 @@ Perfect for anyone starting out in *Machine Learning* or *Data Science*. 🎯
 - Plotted *Actual vs Predicted Sales* to visualize the fit.
 
 #### 📷 Actual vs Predicted Plot  
-![Actual vs Predicted](Images/Actual_vs_Predicted_Price.png)
+![Actual vs Predicted](Images/Actual_vs_Predicted_Sales.png)
 
 ---
 
