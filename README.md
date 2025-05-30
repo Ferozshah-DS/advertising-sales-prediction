@@ -45,7 +45,7 @@ Perfect for anyone starting out in *Machine Learning* or *Data Science*. 🎯
 #### 📷 Boxplot Screenshot  
 ![Boxplot of Features](Images/Boxplot.png)
 #### 📷 Pair-wise Relationship  
-![Pair-wise relation](Images/Pair-Wise_Relationship.png)
+![Pair-wise relation](Images/Pair_Wise_Relationship.png)
 #### 📷 Correlation Heatmap 
 ![Coorelation using Heatmap](Images/Coorelation_Heatmap.png)
 
