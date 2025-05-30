@@ -30,7 +30,7 @@ Perfect for anyone starting out in *Machine Learning* or *Data Science*. 🎯
 - Created boxplots to identify outliers.
 
 #### 📷 Boxplot Screenshot  
-![Boxplot of Features](Images/boxplot.png)
+![Boxplot of Features](Images/Boxplot.png)
 
 ### 📌 Step 3: Feature Engineering
 - No categorical encoding was needed.
