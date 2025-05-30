@@ -133,7 +133,7 @@ jupyter notebook polynomial_regression.ipynb
 
 
 ---
-
+---
 📮 Connect with Me
 
 🔗 LinkedIn
@@ -142,4 +142,4 @@ jupyter notebook polynomial_regression.ipynb
 [Ferozshah-DS](https://github.com/Ferozshah-DS)
 
 
----
+
