@@ -40,7 +40,8 @@ Perfect for anyone starting out in *Machine Learning* or *Data Science*. 🎯
 ### 📌 Step 2: Exploratory Data Analysis (EDA)
 - Generated correlation matrix and pairplots using seaborn.
 - Created boxplots to identify outliers.
-
+#### 📷 Boxplot Screenshot  
+![Distribution of Data Using Histogram](Images/Data_Distribution_Histogram.png)
 #### 📷 Boxplot Screenshot  
 ![Boxplot of Features](Images/Boxplot.png)
 
