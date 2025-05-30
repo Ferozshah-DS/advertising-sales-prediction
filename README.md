@@ -117,14 +117,14 @@ It’s a great *starter project* for your *data science portfolio*.
 git clone https://github.com/Ferozshah-DS/Advertising-Regression-Project.git
 cd Advertising-Regression-Project
 ```  
-###2. Open the Jupyter notebook
+### 2. Open the Jupyter notebook
 
 jupyter notebook polynomial_regression.ipynb
 
 
 ---
 
-🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
 📌 Data Cleaning & EDA
 
@@ -140,7 +140,7 @@ jupyter notebook polynomial_regression.ipynb
 
 ---
 
-📂 Dataset Source
+## 📂 Dataset Source
 
 📈 Advertising Dataset (ISLR)
 
@@ -148,13 +148,13 @@ jupyter notebook polynomial_regression.ipynb
 ---
 ```
 ---
-📮 Connect with Me
+## 📮 Connect with Me
 
-🔗 LinkedIn
+### 🔗 LinkedIn
 [Ferozshah-DS](https://www.linkedin.com/in/feroz-shah-1a3606359/)
 
 
-🐙 GitHub
+### 🐙 GitHub
 [Ferozshah-DS](https://github.com/Ferozshah-DS)
 
 
