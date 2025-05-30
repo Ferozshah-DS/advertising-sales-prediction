@@ -44,6 +44,10 @@ Perfect for anyone starting out in *Machine Learning* or *Data Science*. 🎯
 ![Distribution of Data Using Histogram](Images/Data_Distribution_Histogram.png)
 #### 📷 Boxplot Screenshot  
 ![Boxplot of Features](Images/Boxplot.png)
+#### 📷 Pair-wise Relationship  
+![Pair-wise relation](Images/Pair-Wise_Relationship.png)
+#### 📷 Correlation Heatmap 
+![Coorelation using Heatmap](Images/Coorelation_Heatmap.png)
 
 ### 📌 Step 3: Feature Engineering
 - No categorical encoding was needed.
